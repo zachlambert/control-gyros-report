@@ -4,3 +4,4 @@
 *.out
 *.toc
 /_minted-main/
+code/.ipynb_checkpoints/
